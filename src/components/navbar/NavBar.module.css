@@ -1,0 +1,15 @@
+.logo {
+  width: 80px;
+}
+.main {
+  position: fixed;
+  width: 100vw;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav {
+  width: 90vw;
+  z-index: 10000;
+}

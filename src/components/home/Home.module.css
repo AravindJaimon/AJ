@@ -1,0 +1,25 @@
+.main {
+  height: 85vh;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.head {
+  width: 100%;
+}
+.name {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.me {
+  width: 300px;
+  border-radius: 50%;
+}
+.vcenter {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.subhead {
+  font-weight: bold;
+}
