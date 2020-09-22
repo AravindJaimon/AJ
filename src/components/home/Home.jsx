@@ -25,7 +25,7 @@ const Home = () => {
       .go()
   })
   return (
-    <div className={`${styles.main} center`}>
+    <div id="home" className={`${styles.main} center`}>
       <Container>
         <Row>
           <Col className={styles.vcenter} md={8}>

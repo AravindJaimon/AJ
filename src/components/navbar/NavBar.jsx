@@ -18,7 +18,7 @@ const NavBar = () => {
   return (
     <div className={styles.main}>
       <Navbar className={styles.nav} light expand="md">
-        <NavbarBrand href="/">
+        <NavbarBrand href="/#home">
           <img className={styles.logo} src={logo} alt="" />
         </NavbarBrand>
         <NavbarToggler onClick={toggle} />
