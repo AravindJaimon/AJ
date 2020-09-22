@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Aravind Jaimon`,
     description: `Aravind Jaimon is an Experienced FrontEnd Developer based in India, Who can create stunning websites`,
-    author: `@aravindjaimon`,
+    author: `@aravind_jaimon`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -22,8 +22,8 @@ module.exports = {
         short_name: `starter`,
         start_url: `/`,
         display: `minimal-ui`,
-        // icon: `src/images/gatsby-icon.png`,
+        icon: `src/images/logo.svg`,
       },
     },
   ],
-};
+}
